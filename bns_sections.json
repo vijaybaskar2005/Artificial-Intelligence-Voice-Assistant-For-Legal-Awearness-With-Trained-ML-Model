@@ -1,0 +1,157 @@
+{
+  "chain snatching": {
+    "description": "Relevant BNS Sections for Chain Snatching",
+    "sections": [
+      "Section 303 - Theft: Up to 3 years imprisonment or fine or both.",
+      "Section 302 - Use of criminal force during theft: Up to 2 years imprisonment or fine or both.",
+      "Section 309 - Robbery: Up to 10 years rigorous imprisonment and fine.",
+      "Section 310 - Hurt during robbery: Imprisonment up to 10 years or life and fine."
+    ]
+  },
+
+  "theft": {
+    "description": "Relevant BNS Sections for Theft and Related Offences",
+    "sections": [
+      "Section 301 - Theft: Dishonestly taking property without consent.",
+      "Section 303 - Punishment for Theft: Up to 3 years imprisonment or fine or both.",
+      "Section 304 - Theft in dwelling: Up to 7 years imprisonment and fine.",
+      "Section 305 - Theft by servant: Up to 7 years imprisonment and fine.",
+      "Section 306 - Theft after preparation to cause harm: Up to 10 years imprisonment and fine."
+    ]
+  },
+
+  "robbery": {
+    "description": "Relevant BNS Sections for Robbery and Related Offences",
+    "sections": [
+      "Section 309 - Robbery: Theft with violence or threat.",
+      "Section 310 - Hurt during robbery: 10 years to life imprisonment.",
+      "Section 311 - Attempt to commit robbery: Up to 7 years imprisonment and fine.",
+      "Section 312 - Dacoity (5+ persons): Up to life imprisonment and fine.",
+      "Section 313 - Dacoity with murder: Death or life imprisonment.",
+      "Section 314 - Attempted robbery with deadly weapon: Minimum 7 years.",
+      "Section 315 - Belonging to gang of dacoits: Life or 10 years."
+    ]
+  },
+
+  "assault": {
+    "description": "Relevant BNS Sections for Assault and Related Offences",
+    "sections": [
+      "Section 131 - Assault: Threatening gesture causing fear of force.",
+      "Section 132 - Criminal force: Intentional use of force.",
+      "Section 133 - Assault to deter public servant: Up to 2 years imprisonment.",
+      "Section 134 - Outraging modesty of a woman: 1 to 5 years imprisonment.",
+      "Section 135 - Sexual harassment: Up to 3 years.",
+      "Section 136 - Intent to disrobe a woman: 3 to 7 years.",
+      "Section 137 - Voyeurism: 1 to 7 years.",
+      "Section 138 - Stalking: 3 to 5 years.",
+      "Section 139 - Intent to dishonor: Up to 2 years.",
+      "Section 140 - Assault during theft attempt: 2 years.",
+      "Section 141 - Wrongful confinement assault: 1 year.",
+      "Section 142 - Grave provocation assault: 1 month."
+    ]
+  },
+
+  "acid attack": {
+    "description": "Relevant BNS Sections for Acid Attack",
+    "sections": [
+      "Section 119 - Grievous hurt by acid: Minimum 10 years to life.",
+      "Section 120 - Attempt to throw acid: 5 to 7 years.",
+      "Section 103 - Attempt to murder (if intent present): Life imprisonment.",
+      "Section 72 - Criminal conspiracy (if others involved): Same as abettor.",
+      "Section 84 - Common intention: Equal punishment for all.",
+      "Section 111 - Disappearance of evidence: Up to 7 years and fine."
+    ]
+  },
+
+  "kidnapping": {
+    "description": "Relevant BNS Sections for Kidnapping",
+    "sections": [
+      "Section 125 - Kidnapping from India or guardianship.",
+      "Section 127 - General punishment: Up to 7 years and fine.",
+      "Section 128 - Kidnapping for begging: 10 years or life.",
+      "Section 129 - Kidnapping for murder: Life or 10 years.",
+      "Section 130 - Kidnapping for ransom: Death or life.",
+      "Section 131 - Kidnapping for confinement: 7 years.",
+      "Section 132 - Kidnapping to force marriage: 10 years.",
+      "Section 133 - Kidnapping for hurt/slavery: 10 years.",
+      "Section 135 - Kidnapping child to steal: 7 years."
+    ]
+  },
+
+  "domestic violence": {
+    "description": "Relevant BNS Sections for Domestic Violence",
+    "sections": [
+      "Section 85 - Cruelty by husband or relatives: Up to 3 years.",
+      "Section 109 - Voluntarily causing hurt: Up to 1 year or fine.",
+      "Section 110 - Hurt with dangerous weapon: Up to 3 years.",
+      "Section 111 - Grievous hurt: Up to 7 years and fine.",
+      "Section 151 - Criminal intimidation: 2 to 7 years.",
+      "Section 152 - Words to insult woman: Up to 3 years.",
+      "Section 134 - Outraging modesty: 1 to 5 years.",
+      "Section 105 - Dowry death: 7 years to life.",
+      "Section 149/150 - Wrongful restraint/confinement: Up to 1 year."
+    ]
+  },
+
+  "murder": {
+    "description": "Relevant BNS Sections for Murder",
+    "sections": [
+      "Section 101 - Murder: Death or life imprisonment.",
+      "Section 102 - Culpable homicide not murder: Life or 10 years.",
+      "Section 103 - Attempt to murder: 10 years or life.",
+      "Section 72 - Criminal conspiracy to murder: Same as murderer.",
+      "Section 84 - Common intention: Equal punishment.",
+      "Section 111 - Disappearance of evidence: Up to 7 years and fine."
+    ]
+  },
+
+  "not filing fir": {
+    "description": "Relevant Legal Provisions for Not Filing FIR",
+    "sections": [
+      "BNSS Section 173(3): Complain to SP or Magistrate.",
+      "Supreme Court (Lalita Kumari v. Govt. of UP): FIR mandatory for cognizable offences."
+    ],
+    "what_to_do": [
+      "Approach SP or Magistrate.",
+      "File writ in High Court (Mandamus).",
+      "File human rights complaint."
+    ]
+  },
+
+  "beating during enquiry": {
+    "description": "Relevant BNS Sections for Beating During Enquiry",
+    "sections": [
+      "Section 113 - Voluntarily causing hurt: Up to 1 year.",
+      "Section 114 - Hurt with dangerous weapon: Up to 3 years.",
+      "Section 220 - Public servant disobeying law: Up to 2 years."
+    ],
+    "what_to_do": [
+      "Complain to SP or Magistrate.",
+      "Approach Human Rights Commission."
+    ]
+  },
+
+  "harassing witness": {
+    "description": "Relevant BNS Sections for Harassing Witness",
+    "sections": [
+      "Section 228 - Intentional insult in judicial proceeding: Up to 6 months.",
+      "Section 151 - Criminal intimidation: 2 to 7 years."
+    ],
+    "what_to_do": [
+      "Complain to SP or Magistrate.",
+      "Approach Witness Protection Authority."
+    ]
+  },
+
+  "hiding evidence": {
+    "description": "Relevant BNS Sections for Hiding Evidence",
+    "sections": [
+      "Section 201 - Causing disappearance of evidence: Up to 7 years.",
+      "Section 72 - Criminal conspiracy: Same punishment as abettor."
+    ],
+    "what_to_do": [
+      "File complaint before higher police.",
+      "Seek judicial inquiry."
+    ]
+  }
+}

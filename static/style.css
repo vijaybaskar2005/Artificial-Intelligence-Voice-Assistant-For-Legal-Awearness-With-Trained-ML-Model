@@ -1,0 +1,92 @@
+/* Whole page */
+body {
+    font-family: Arial, sans-serif;
+    background: #eef2f7;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 100vh;
+    margin: 0;
+}
+
+/* Main card */
+.container {
+    width: 80%;
+    max-width: 800px;
+
+    background: white;
+
+    padding: 25px;
+
+    border-radius: 12px;
+
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+
+    text-align: center;
+}
+
+/* Heading */
+h2 {
+    color: #1f3c88;
+    margin-bottom: 5px;
+}
+
+/* Small subtitle */
+.subtitle {
+    color: gray;
+    margin-bottom: 20px;
+}
+
+/* Button */
+button {
+    background: #1f3c88;
+    color: white;
+
+    border: none;
+
+    padding: 12px 20px;
+
+    border-radius: 8px;
+
+    cursor: pointer;
+
+    font-size: 16px;
+
+    transition: 0.3s;
+}
+
+/* Hover effect */
+button:hover {
+    background: #2d5be3;
+}
+
+/* User speech */
+#userQuery {
+    margin-top: 20px;
+
+    text-align: left;
+
+    font-weight: bold;
+}
+
+/* Responses */
+#output {
+    margin-top: 20px;
+
+    text-align: left;
+}
+
+/* Response cards */
+#output div {
+    background: #f7f9fc;
+
+    padding: 12px;
+
+    margin-top: 12px;
+
+    border-left: 4px solid #1f3c88;
+
+    border-radius: 8px;
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Lawyer Voice Assistant</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h2>⚖️ AI Legal Awareness Assistant</h2>
+
+        <p class="subtitle">
+            Voice-Based Legal Guidance using Machine Learning
+        </p>
+
+        <button onclick="startListening()">
+            🎤 Start Speaking
+        </button>
+
+        <div id="userQuery"></div>
+
+        <div id="output"></div>
+
+    </div>
+
+</body>
+</html>
