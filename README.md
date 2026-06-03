@@ -54,8 +54,8 @@ The project was developed to improve legal awareness and provide quick access to
 2. Browser captures voice input using Speech Recognition.
 3. JavaScript sends the complaint to the Flask backend using a POST API request.
 4. Flask receives the complaint text.
-5. CountVectorizer converts text into numerical features.
-6. The trained Naive Bayes model predicts the crime category.
+5. TF-IDF Vectorizer converts complaint text into numerical features.
+6. The trained Logistic Regression model predicts the crime category.
 7. Flask retrieves the corresponding BNS information from the JSON dataset.
 8. The response is returned to the frontend in JSON format.
 9. The legal information is displayed and spoken back to the user.
