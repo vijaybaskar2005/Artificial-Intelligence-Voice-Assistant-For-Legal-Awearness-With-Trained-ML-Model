@@ -15,7 +15,6 @@ with open("model.pkl", "rb") as file:
 with open("vectorizer.pkl", "rb") as file:
     vectorizer = pickle.load(file)
 
-
 @app.route('/')
 def home():
     return render_template('index.html')
@@ -51,7 +50,6 @@ def get_section():
         return jsonify({"response": full_response})
 
     return jsonify({"response": "Sorry, no legal section found."})
-
 
 if __name__ == '__main__':
     app.run(debug=True)

@@ -1,5 +1,5 @@
 {
-  "chain snatching": {
+  "chain_snatching": {
     "description": "Relevant BNS Sections for Chain Snatching",
     "sections": [
       "Section 303 - Theft: Up to 3 years imprisonment or fine or both.",
@@ -51,7 +51,7 @@
     ]
   },
 
-  "acid attack": {
+  "acid_attack": {
     "description": "Relevant BNS Sections for Acid Attack",
     "sections": [
       "Section 119 - Grievous hurt by acid: Minimum 10 years to life.",
@@ -78,7 +78,7 @@
     ]
   },
 
-  "domestic violence": {
+  "domestic_violence": {
     "description": "Relevant BNS Sections for Domestic Violence",
     "sections": [
       "Section 85 - Cruelty by husband or relatives: Up to 3 years.",
@@ -131,7 +131,7 @@
     ]
   },
 
-  "harassing witness": {
+  "harassing_witness": {
     "description": "Relevant BNS Sections for Harassing Witness",
     "sections": [
       "Section 228 - Intentional insult in judicial proceeding: Up to 6 months.",
